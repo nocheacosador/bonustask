@@ -2,8 +2,6 @@ package com.bonustask;
 
 import java.io.FileNotFoundException;
 import java.io.File;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.Scanner;
 
 public class App 
